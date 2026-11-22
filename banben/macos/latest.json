@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "notes": "卖家岛 0.5.0 macOS (Apple Silicon)：小岛位于菜单栏下方、托盘常驻、欧利宠物与公司页面入口、签名更新检测及下载安装。未公证应用首次打开请右键选择“打开”。",
+  "pub_date": "2026-11-22T13:35:42Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/macos/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.0_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTTI0SXZyR1k1NGdGS1c3bjBjZXhOOUpFWmJDaG9LU2Q5eHJtOUFJVzZXYzhNM1BOYmNHeENkVTRyL2k2ODVGQ3NXQS9TYWZZRSsyMTZzL1hKQm54WFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUzNzE1CWZpbGU65Y2W5a625bKbXzAuNS4wX2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4wCmtLQzlpQ1F0d1djMWdUa1lHTDJXMjNmQXozemZkT1Jsa3YwQnhIQmlmanVReGdVWDZJWDNJQ1o0c2ZSZ0VKS2lwU0p0eWZrYlY2QU96b2tkeU5tWkNRPT0K"
+    }
+  }
+}
