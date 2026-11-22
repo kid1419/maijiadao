@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "卖家岛 0.5.0：一体化设置、小刘海与灵动岛、Ollie（欧利）六动作宠物、公司页面入口与浏览器选择、签名更新检测及下载安装。0.4.7及更早版本须手动安装本版本一次；升级请选择原目录，勿先卸载。",
-  "pub_date": "2026-11-22T12:05:51Z",
+  "version": "0.5.1",
+  "notes": "卖家岛 0.5.1：店铺名与销售额之间新增滚动信息栏——双时区时间上下翻页展示，可选汇率换算（公共接口约每6小时更新）与最多 5 条活动倒计时（会员日/黑五/网一/秒杀/聚划算/店铺促销），设置内集中开关。",
+  "pub_date": "2026-11-22T15:35:33Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTTgxVGp2RmZWcVB4b3FEY3B0a05hUkltdkx3cnJPeU1vZUxWTS9MY2QyOWxuRmx3NDl0bkg2N2NNVWNLcG1vOWd2SklST1B6K3NrcWdsUmNPcXE4MXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQ4NjU0CWZpbGU65Y2W5a625bKbXzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMApFSStvclVZWlR5MmE3dTE0MzZOS1h5N2k3Z1R2b2VKV2c4L3c3UnNaRzNuTVMvbWcxb1hwNnF4UEI4S09NREUwbklkMkpsZmk2aVBXdm1ETlVaVXNCUT09Cg=="
+      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTThiR0dpcnk1ZitBaWdmbHNydWRsZ202QzNGWkJGQ240OXcvYVl2VnNFbDN3NVNKSGRPUEZCbzUyN05rK09SU2VncGJxVlhhRGY4Vkg4TURibS83U0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYxMTc0CWZpbGU65Y2W5a625bKbXzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpDR01HZ21lNnAzNmdJYit4L21ROUR1N2VoU294M25vamU1NVpTM2JUcUo1QjBJVC9PRHZCRmtnMVVNZ3hiY0RVZERjM1RvS2Q4RTMyNUViY0gwU2dCZz09Cg=="
     }
   }
 }
