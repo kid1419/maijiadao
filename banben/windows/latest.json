@@ -1,11 +1,12 @@
 {
-  "version": "0.5.1",
-  "notes": "å–å®¶å²› 0.5.1ï¼šåº—é“ºåä¸Žé”€å”®é¢ä¹‹é—´æ–°å¢žæ»šåŠ¨ä¿¡æ¯æ â€”â€”åŒæ—¶åŒºæ—¶é—´ä¸Šä¸‹ç¿»é¡µå±•ç¤ºï¼Œå¯é€‰æ±‡çŽ‡æ¢ç®—ï¼ˆå…¬å…±æŽ¥å£çº¦æ¯6å°æ—¶æ›´æ–°ï¼‰ä¸Žæœ€å¤š 5 æ¡æ´»åŠ¨å€’è®¡æ—¶ï¼ˆä¼šå‘˜æ—¥/é»‘äº”/ç½‘ä¸€/ç§’æ€/èšåˆ’ç®—/åº—é“ºä¿ƒé”€ï¼‰ï¼Œè®¾ç½®å†…é›†ä¸­å¼€å…³ã€‚",
-  "pub_date": "2026-11-22T15:35:33Z",
+  "version": "0.5.2",
+  "notes": "Âô¼Òµº 0.5.2£ºÐÂÔö¿É×ÔÓÉÍÏ¶¯µÄ Windows µ×²¿¹¤¾ßÀ¸£»¹¤¾ßÀ¸Ä£Ê½ÏÂ Ollie£¨Å·Àû£©·Å´óÎªÔ­À´µÄ 2 ±¶²¢×øÔÚÐÅÏ¢ÌõÉÏ·½£»¹¤¾ßÀ¸ÍÏ¶¯ºó¾­ÓªÃæ°å´Óµ±Ç°Î»ÖÃÏòÉÏÕ¹¿ª£»ÐÞ¸´Ð¡Áõº£¡¢Áé¶¯µººÍ¹¤¾ßÀ¸ÄÚÈÝ´íÎ»¡£",
+  "pub_date": "2026-11-24T00:39:41Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTThiR0dpcnk1ZitBaWdmbHNydWRsZ202QzNGWkJGQ240OXcvYVl2VnNFbDN3NVNKSGRPUEZCbzUyN05rK09SU2VncGJxVlhhRGY4Vkg4TURibS83U0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYxMTc0CWZpbGU65Y2W5a625bKbXzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpDR01HZ21lNnAzNmdJYit4L21ROUR1N2VoU294M25vamU1NVpTM2JUcUo1QjBJVC9PRHZCRmtnMVVNZ3hiY0RVZERjM1RvS2Q4RTMyNUViY0gwU2dCZz09Cg=="
+      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.2_x64-setup.exe",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUTTNWSGNsSk5PRXRZVFRaVVpGbFlZVXRuUlhVdk0xTTRabGhDS3psdmVtMDFjbHB2UVhaWE1YVkVTR2R4UXpjd1ZHNWxTV1ZGUVc5SmNuZ3ZUMWc0Y2toRVNUQlJkemRTWlZKclFVaG1UM1oyTmtoUWNYRjNibXBwSzI4MmNVRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnprMU5EZ3dOalkwQ1dacGJHVTY1WTJXNWE2MjViS2JYekF1TlM0eVgzZzJOQzF6WlhSMWNDNWxlR1VKZG1WeWMybHZiam93TGpVdU1ncG1WRlZKTWtGRGN5ODRjWGt5U2toWmIzZ3lObTh3V0VvclpTOUNOazVPTnpaRFkweE5kMEZtYjI1dmQxcDRWSFJyWm5CU2VFaEVTa1pSU1hkSVdtOU5lRmxVWXpSc09GQnRTMHhVSzFOc05XaGxUbFJFZHowOUNnPT0="
     }
   }
 }
+
