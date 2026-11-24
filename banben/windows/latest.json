@@ -1,11 +1,11 @@
 {
-  "version": "0.5.2",
-  "notes": "卖家岛 0.5.2：新增可自由拖动的底部工具栏；工具栏模式下 Ollie（欧利）放大为原来的 2 倍并坐在信息条上方；信息条右侧空白缩减，经营面板从工具栏当前位置向上展开；修复小刘海、灵动岛和工具栏内容错位。",
-  "pub_date": "2026-11-24T00:39:41Z",
+  "version": "0.5.3",
+  "notes": "卖家岛 0.5.3：面板视觉全面 Rakko 化（中性分层灰、Apple 状态色、胶囊分段页签、字号放大）；账户页新增健康分数圆环（分数即弧长，分段配色）；总览页销售额主卡改版；新增窗口开合 morph 与数据块依次浮现动效；修复工具栏模式点击黑条无法展开与展开位置偏移；欧利收起残影消除；悬停反馈与滚动条细化；应用图标更新为欧利纸箱。",
+  "pub_date": "2026-11-24T16:28:58.695Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTTZUZFlYYUtnRXUvM1M4ZlhCKzlvem01clpvQXZXMXVESGdxQzcwVG5lSWVFQW9JcngvT1g4ckhESTBRdzdSZVJrQUhmT3Z2NkhQcXF3bmppK282cUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgwNjY0CWZpbGU65Y2W5a625bKbXzAuNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMgpmVFVJMkFDcy84cXkySkhZb3gyNm8wWEorZS9CNk5ONzZDY0xNd0Fmb25vd1p4VHRrZnBSeEhESkZRSXdIWm9NeFlUYzRsOFBtS0xUK1NsNWhlTlREdz09Cg=="
+      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTTFpQnZjUkNYSTVFTmhvRzdkaENuUms4YnUrY0ExZytlOHV6NG5mdWlsZERHQmZPeUhFOUVRclpSeG1pUWZCenV5dHJvd0F2aHYvYURaNWlkY1habFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3NTM0CWZpbGU65Y2W5a625bKbXzAuNS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMwpQZHNhdFNCYVBybEZ4M1ZaMUt3eHNaNG5xZThhWFdnOGZXaFhUUlprTWUxd2MvMW1IaDU0MG5jUm1RWnJpeTBtSUpDQ2Z1WkRLalVBMEdGSVcwWjBEZz09Cg=="
     }
   }
 }
