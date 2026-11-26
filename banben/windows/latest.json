@@ -1,11 +1,11 @@
 {
-  "version": "0.5.4",
-  "notes": "卖家岛 0.5.3：面板视觉全面 Rakko 化（中性分层灰、Apple 状态色、胶囊分段页签、字号放大）；账户页新增健康分数圆环（分数即弧长，分段配色）；总览页销售额主卡改版；新增窗口开合 morph 与数据块依次浮现动效；修复工具栏模式点击黑条无法展开与展开位置偏移；欧利收起残影消除；悬停反馈与滚动条细化；应用图标更新为欧利纸箱。",
-  "pub_date": "2026-11-25T08:40:00Z",
+  "version": "0.5.5",
+  "notes": "卖家岛 0.5.5：新增邮件正文百度翻译（按需触发、本机月额度账本、原文/中文切换）；新增 Mac 服务独立地址设置（局域网适配）与人工提醒链接原生白名单重建；信息条阅读周期重做（短文静止 6 秒、长文完整读完再切页、悬停续读）。",
+  "pub_date": "2026-11-26T15:36:50.982Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTXkvRUNSOEo3R1RpSDRqcWhZTWpESzN4ZHVjTGVhdXZvREdSOVowcUpreXZqWllvQ1FqaXNHcFNOQWczNDVjZElySTBONjBUN2o5K1NWa3Z2cWo1UGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTk1NTg4CWZpbGU65Y2W5a625bKbXzAuNS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNApRbUlZY21NMHBWWjVjdkJzd2dyWXNiajk3aEZqZ29VL1JzbDVVUm1ubkZoWXA3WnlhbHpWai8yQUxNYUdCVXZMMkVkQy90SWFFcm45Tm56eEZpUUxBUT09Cg=="
+      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTStvVnp1aGsxVll1R3Q0ZTZSWlR4TThseWJRcVgyeVQ1ME5YZVEzODYyV01BM3N2bXJ3Y05GZVNEVHEvNmdJbDlhajllM1JTSkxBVGwzNWVNY3hWcFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAzMDA2CWZpbGU65Y2W5a625bKbXzAuNS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNQpWQVI1aVpwZDBhN1dkazJRUjQ5UjZCRDlTMlppWk42aENrYTNRbGJwZnJabkE1bUdsaU1oK3Q0Y2xhSTJYSlRKRE4rSy85ODVtV2cvUnJqVFZnellEUT09Cg=="
     }
   }
 }
