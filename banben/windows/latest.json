@@ -1,11 +1,11 @@
 {
-  "version": "0.5.5",
-  "notes": "卖家岛 0.5.5：新增邮件正文百度翻译（按需触发、本机月额度账本、原文/中文切换）；新增 Mac 服务独立地址设置（局域网适配）与人工提醒链接原生白名单重建；信息条阅读周期重做（短文静止 6 秒、长文完整读完再切页、悬停续读）。",
-  "pub_date": "2026-11-26T15:36:50.982Z",
+  "version": "0.5.6",
+  "notes": "卖家岛 0.5.6：新增 FBA 库容页（标准/服装/大件，未来三月切换与超容预警）；后台自动检查更新并保持「有新版本」提示不丢失。",
+  "pub_date": "2026-11-27T03:07:06.448Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.5_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTStvVnp1aGsxVll1R3Q0ZTZSWlR4TThseWJRcVgyeVQ1ME5YZVEzODYyV01BM3N2bXJ3Y05GZVNEVHEvNmdJbDlhajllM1JTSkxBVGwzNWVNY3hWcFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAzMDA2CWZpbGU65Y2W5a625bKbXzAuNS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNQpWQVI1aVpwZDBhN1dkazJRUjQ5UjZCRDlTMlppWk42aENrYTNRbGJwZnJabkE1bUdsaU1oK3Q0Y2xhSTJYSlRKRE4rSy85ODVtV2cvUnJqVFZnellEUT09Cg=="
+      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.6_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTXcyalp4L2VBSVBLYTc0THBzTU1CRTgrL25kVmE4MHhDbEVuMFRLWFd0SHNMOTlyS0IzWjVtaG1INk9raFdoVmRpSmoxM1ZBNHRSVHlzQXRoczkvU1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ4NzExCWZpbGU65Y2W5a625bKbXzAuNS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNgpqa3NMcjVIdnFNd2dyVFdQTFUvV0lpQmlYNWRUTWdRaXdEano0SnhKTW1MSnRwWUM0cnkrRVY0YmZ6ZEd0THZydVh6VUI5NHVySEh1c3NvYWhiRC9EUT09Cg=="
     }
   }
 }
