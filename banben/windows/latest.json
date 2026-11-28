@@ -1,11 +1,11 @@
 {
-  "version": "0.5.6",
-  "notes": "卖家岛 0.5.6：新增 FBA 库容页（标准/服装/大件，未来三月切换与超容预警）；后台自动检查更新并保持「有新版本」提示不丢失。",
-  "pub_date": "2026-11-27T03:07:06.448Z",
+  "version": "0.5.7",
+  "notes": "卖家岛 0.5.7：时间/汇率轮播新增产品洞察动态（新批次优先、进度原位更新、失败原因保留、断线待确认）；设置新增独立「产品洞察动态」显示开关。",
+  "pub_date": "2026-11-28T00:35:47.578Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTXcyalp4L2VBSVBLYTc0THBzTU1CRTgrL25kVmE4MHhDbEVuMFRLWFd0SHNMOTlyS0IzWjVtaG1INk9raFdoVmRpSmoxM1ZBNHRSVHlzQXRoczkvU1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ4NzExCWZpbGU65Y2W5a625bKbXzAuNS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNgpqa3NMcjVIdnFNd2dyVFdQTFUvV0lpQmlYNWRUTWdRaXdEano0SnhKTW1MSnRwWUM0cnkrRVY0YmZ6ZEd0THZydVh6VUI5NHVySEh1c3NvYWhiRC9EUT09Cg=="
+      "url": "https://raw.githubusercontent.com/kid1419/maijiadao/main/banben/windows/%E5%8D%96%E5%AE%B6%E5%B2%9B_0.5.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3VHclJNOEtYTS83eG9iWDhwamI5bS9HUWJTQnRCTDljc3RtM2wrODYxcVBhMXMrNEtDQzlkTUhuSW54MytrSDczZGFTZjIweE5qckRjWWlhdmI5cTVER3V0RTBlandRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkzODA2CWZpbGU65Y2W5a625bKbXzAuNS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNwpIRDVQRlZkSHo3ZEk2SHR2eHg3dWliZmdxeS83VHJPdXgrMlIvblhWUXNyNldkWnJGTzQva0NHQmZPMGxPZmY2emllbFdHaDE1YTN4Z3VUcHpNU1lDZz09Cg=="
     }
   }
 }
